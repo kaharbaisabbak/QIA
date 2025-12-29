@@ -1,0 +1,6 @@
+100-100 * 2
+550-650 * 3
+550-400 * 6
+700-700 * 2
+1920-1080 * 2 these are carousel photos one will be related to electricity and second will be plumbing related
+500-600 * 4
