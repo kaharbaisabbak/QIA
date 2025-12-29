@@ -493,11 +493,18 @@
     top: 50%;
     transform: translate(-50%, -50%);
     z-index: 10;
-    font-size: 14px;
+    font-size: 18px;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1000px) {
     .mobile-lang-switch {
         display: none;
     }
+}
+
+
+
+
+body {
+  font-family: 'Cairo', sans-serif;
 }
